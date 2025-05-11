@@ -75,14 +75,14 @@ In Smart Research Analyst can evolve more widely by adding more features and opt
 
 Here’s how we will add Feature to evolve it:
 
-'''Integration with Research Databases & Tool:
+1. Integration with Research Databases & Tool:
       Deeper access to repositories like JSTOR, ScienceDirect, IEEE Xplore
-Multilingual & Cross-Domain Support
-Understand and summarize papers in multiple languages
-Collaborative Research Workspaces
-Shared annotations, comments, and summaries with teams
-Smarter AI, More Personalization
-Recommend content and writing advice based on your goals and expertise level
-Community Feedback & Open Research
-Built-in peer-review mechanisms for summaries and insights.
-'''
+2. Multilingual & Cross-Domain Support
+      Understand and summarize papers in multiple languages
+3. Collaborative Research Workspaces
+      Shared annotations, comments, and summaries with teams
+4. Smarter AI, More Personalization
+      Recommend content and writing advice based on your goals and expertise level
+5. Community Feedback & Open Research
+      Built-in peer-review mechanisms for summaries and insights.
+
